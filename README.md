@@ -1,0 +1,2 @@
+# AmazonClone
+A practice project :)
